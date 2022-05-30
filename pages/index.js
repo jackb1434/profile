@@ -24,7 +24,6 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Radio+Canada:wght@300;400;500;600;700&family=VT323&display=swap" rel="stylesheet"/>
-        <script src="/main.js"></script>
       </Head>
 
       <div className={styles.main}>
