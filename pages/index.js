@@ -30,7 +30,7 @@ export default function Home() {
       <div className={styles.main}>
         <img className={styles.image} src="/pfp.png" alt="pfp"></img>
         <h1>gramgram</h1>
-        <p>Hello! My name is Jack and I'm a developer and a music producer. I make games, desktop applications, console applications, and websites. I'm currently learning OpenGL in rustlang and will be working on an engine soon after that!</p>
+        <p>Hello! My name is Jack and I&aposm a developer and a music producer. I make games, desktop applications, console applications, and websites. I&aposm currently learning OpenGL with c++ and will be working on an engine soon after that!</p>
         <div className={styles.socials}>
           <input className={styles.s_btns} type="image" onClick={Github} src="/github.png" alt="github logo"/>
           <input className={styles.s_btns} type="image" onClick={YouTube} src="/youtube.png" alt="youtube logo"/>
