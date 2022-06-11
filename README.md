@@ -4,3 +4,5 @@
  Working on portfolio website at the moment (and something else).
  
 I'll be updating this project by adding new stuff I learn.
+
+Icons from social media icons from: https://www.flaticon.com/
