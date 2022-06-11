@@ -5,4 +5,4 @@
  
 I'll be updating this project by adding new stuff I learn.
 
-Icons from social media icons from: https://www.flaticon.com/
+Icons for social media icons from: https://www.flaticon.com/
